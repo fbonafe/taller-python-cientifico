@@ -6,7 +6,7 @@ Este taller/tutorial consiste en una introducción a Python para científicos de
 Primera sesión
 --------------
 
-* Introducción a python en general (adaptada de la primera clase del `curso del Ing. Martín Gaitán) <https://github.com/mgaitan/curso-python-cientifico>`.
+* Introducción a python en general (adaptada de la primera clase del `curso del Ing. Martín Gaitán) <https://github.com/mgaitan/curso-python-cientifico>`_
 
 * Lectura/escritura de archivos.
 
