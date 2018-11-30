@@ -1,1 +1,1 @@
-print('Hola amigues!')
+print('Hola amigues (desde un script)!')
