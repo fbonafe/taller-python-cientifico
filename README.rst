@@ -1,5 +1,5 @@
-Taller de Python para Científicos "Haciendo ciencia con Python"
-==============================================================
+Haciendo ciencia con Python
+===========================
 
 Este taller/tutorial consiste en una introducción a Python para científicos del área de la física/química con alguna idea previa de programación. Las notebooks contemplan los siguientes temas:
 
@@ -25,3 +25,10 @@ Segunda sesión
 * Introducción a pandas.
 
 * Trabajo en un proyecto personal.
+
+
+Más recursos:
+
+* `Curso de Python para ciencias e ingenierías <https://github.com/mgaitan/curso-python-cientifico>`_
+
+* `Curso AeroPython <https://github.com/AeroPython/Curso_AeroPython>`_
